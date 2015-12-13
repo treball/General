@@ -23,3 +23,7 @@
   * XSD
 * HTML
   * CSS
+
+# Altres
+* Git
+  * Github

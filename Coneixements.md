@@ -11,6 +11,9 @@
   
 # Programació
 * Java
+* JavaScript (básic per HTML)
+  * DOM
+  * Json
 
 # Bases de dades
 * SQL

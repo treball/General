@@ -2,12 +2,7 @@
 * Linux
   * Fedora
 * Shell Script
-* IDE's i procesadors de text
-  * Vim
-  * Geany
-  * DrJava
-  * Sublime Text 3 *
-  * Intellij Idea *
+
   
 # Programació
 * Java
@@ -29,5 +24,11 @@
   * CSS
 
 # Altres
+* IDE's i procesadors de text
+  * Vim
+  * Geany
+  * DrJava
+  * Sublime Text 3 *
+  * Intellij Idea *
 * Git
   * Github
